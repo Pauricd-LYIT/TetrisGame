@@ -3,11 +3,15 @@
 A project based learning activity for people who are getting started with Git and GitHub.
 
 To play the game:
-1. Go to the **Settings** tab of this repository.
-1. Scroll down to the section titled _GitHub Pages_
-1. Select **main** from the Source drop-down.
-1. Click **Save**.
-1. Navigate to the URL provided in the same section.
+Navigate to https://pauricd-lyit.github.io/TetrisGame/
+
+### Instruction for playing the game here
+
+1. Press Space Bar to Begin
+2. Use Up Down arrow keys
+3. Use left Right Arrow Keys
+4. Complete rows
+5. Then row will disappear.
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
